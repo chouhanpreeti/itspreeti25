@@ -31,10 +31,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/preetichouhan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/preetichouhan" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itspreeti25&show_icons=true&locale=en&layout=compact" alt="itspreeti25" /></p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=itspreeti25&show_icons=true&locale=en" alt="itspreeti25" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=itspreeti25&" alt="itspreeti25" /></p>
 
