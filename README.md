@@ -3,6 +3,7 @@
 <h3 align="center">I am a Machine Learning and Deep Learning enthusiast trying to figure out stuff :D</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itspreeti25&label=Profile%20views&color=0e75b6&style=flat" alt="itspreeti25" /> </p>
+<img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e47ng7njss0jjtnw49r9slrz2k3o5goz86yqhwak4ew&rid=giphy.gif&ct=g" width="230">
 
 - 🌱 I’m currently learning **everything**
 
