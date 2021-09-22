@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preeti.. I am a beginner, learning every day.</h1>
+<h1 align="center">Hi 👋, Its Preeti.. I am a beginner, learning every day.</h1>
 
 <h3 align="center">I am a Machine Learning and Deep Learning enthusiast trying to figure out stuff :D</h3>
 
