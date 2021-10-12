@@ -1,5 +1,4 @@
 <h3 align="center">Hi 👋, Its Preeti.. I am a Machine Learning and Deep Learning enthusiast trying to figure out stuff :D</h3>
-<br>
 
 - Pronouns: she/her
 
